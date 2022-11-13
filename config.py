@@ -1,0 +1,6 @@
+customhost = "my-app-masterdb-ojjeedkzldu6.cazpcnqkevgl.ap-south-1.rds.amazonaws.com"
+customuser = "prashant"
+custompass = "admin123"
+customdb = "testdb"
+custombucket = "S3-bucketname"
+customregion = "ap-south-1"
