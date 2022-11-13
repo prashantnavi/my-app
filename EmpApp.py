@@ -13,7 +13,7 @@ app = Flask(__name__)
 # DBPWD = os.environ.get("DBPWD")
 # DATABASE = os.environ.get("DATABASE")
 
-bucket = custombucket
+#bucket = custombucket
 region = customregion
 
 db_conn = connections.Connection(
